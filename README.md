@@ -1,9 +1,9 @@
-# 🎵 Hatsune Miku Theme 🎵
+# 🎵🎵
 
 <div align="center">
   
-  ### 🎤 Vocaloid Enthusiast | Developer
-
+  ### 🎤 Miku Enjoyer | Developer
+  ### I'm new pls no bulli
 </div>
 
 ---
