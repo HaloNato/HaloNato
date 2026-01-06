@@ -3,10 +3,7 @@
 <div align="center">
   
   ### 🎤 Vocaloid Enthusiast | Developer
-  
-  [![GitHub followers](https://img.shields.io/github/followers/HaloNato?style=social)](https://github.com/HaloNato)
-  [![GitHub stars](https://img.shields.io/github/stars/HaloNato?style=social)](https://github.com/HaloNato)
-  
+
 </div>
 
 ---
@@ -76,26 +73,11 @@
 
 ---
 
-## 🎼 Featured Projects
-
-<div align="center">
-  
-  ### [Andrew's Handyman Services](https://github.com/HaloNato/AndrewWebsite)
-  
-  A modern ASP.NET Web Forms website with booking system and admin panel
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/HaloNato/AndrewWebsite)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/HaloNato/AndrewWebsite)
-  
-</div>
-
----
-
 <div align="center">
   
   ### 🎵 39! 🎵
   
-  *"I am Hatsune Miku, and I will sing for you!"*
+  *"Miku :D"*
   
   ---
   
