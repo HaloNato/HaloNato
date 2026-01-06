@@ -3,7 +3,7 @@
 <div align="center">
   
   ### 🎤 Miku Enjoyer | Developer
-  ### I'm new pls no bulli
+  ### I'm new pls no bulli | Still working on this page
 </div>
 
 ---
